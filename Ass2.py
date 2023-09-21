@@ -2,6 +2,7 @@
 #Batch- B1
 #Roll No- 03
 #Title-Implement Bag of Words
+#Assignment no. - 02
 
 #Import the libraries
 import gensim
