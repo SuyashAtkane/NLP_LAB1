@@ -1,7 +1,7 @@
 '''Name:Suyash Atkane
 Batch:B1
 Roll no:03
-Pract no 4: Generating the n gram model using nltk'''
+Pract no 3: Generating the n gram model using nltk'''
 from nltk import ngrams
 
 from nltk.util import ngrams
